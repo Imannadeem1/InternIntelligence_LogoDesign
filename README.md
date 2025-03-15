@@ -23,7 +23,7 @@ The primary objective was to design a logo that:
 The final logo design successfully captures the essence of the fashion brand, combining elegance with a modern twist. It is versatile, scalable, and ready to be used across different platforms.
 
 ## Screenshots
-![Logo Design](path/to/your/logo/image.png)
+![Logo Design](https://github.com/Imannadeem1/InternIntelligence_LogoDesign/blob/7bf8e71345c78c87d786e3840e5b84fc4aaaf13c/Brand_Logo.png)
 
 ## Conclusion
 This task was a valuable learning experience, allowing me to enhance my design skills and understand the importance of branding in the fashion industry. I look forward to applying these skills in future projects.
